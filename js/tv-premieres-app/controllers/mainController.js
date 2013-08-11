@@ -1,6 +1,6 @@
 app.controller("mainController", function($scope, $http){
 	
-	$scope.apiKey = "e5b214099cab1bb38b3b14ccb541b796";
+	$scope.apiKey = "[Your Key Here]";
 
 	$scope.results = [];
 
